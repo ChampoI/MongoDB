@@ -56,12 +56,4 @@ docker-compose down
 - El proyecto se ejecuta sin necesidad de configuraciones adicionales.
 - Ideal para prácticas educativas, tests rápidos o como punto de partida para aplicaciones más complejas.
 
-## 🧑‍💻 Autor
-
-Desarrollado por **Champol C.**  
-Este proyecto forma parte de un portafolio técnico enfocado en bases de datos NoSQL, DevOps y buenas prácticas de desarrollo backend.
-
-## 📄 Licencia
-
-Este repositorio se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles (si decides agregarlo).
 
